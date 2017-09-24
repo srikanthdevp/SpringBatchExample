@@ -1,0 +1,4 @@
+Basanta Hota   |   01/02/1985  |   76
+Ravindra Patra |   01/02/1983  |   39
+Saroj Sahoo    |   01/02/1970  |   61
+Amit Sahoo     |   01/02/2002  |   59
